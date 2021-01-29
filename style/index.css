@@ -92,10 +92,6 @@ h1{
     justify-content: flex-start;
     color: limegreen;
     margin-top: 1rem;
-/* copied and adjusted a bit */
-    /* position: absolute; */
-    /* left: 20%; */
-    /* transform: translate(-50%, -50%); */
     letter-spacing: 0.25rem;
     transition: 0.3s;
     text-shadow: 1px 1px 0 grey, 1px 2px 0 grey, 1px 3px 0 grey, 1px 4px 0 grey,
@@ -118,6 +114,7 @@ h1:hover {
 }
 
 h3{
+    font-family: 'Gorditas', cursive;
     font-size: large;
 }
 
@@ -129,8 +126,8 @@ h3{
 }
 
 section img{
-    width: 200px;
-    height: 200px;
+    width: 20rem;
+    height: 20rem;
 }
 
 .first3pics{
@@ -189,4 +186,23 @@ footer{
    .second3pics{
        flex-direction: column;
    }
+   section{
+       text-align: center;
+   }
+   h3{
+       font-size: x-large;
+   }
+   section img{
+    width: 40rem;
+    height: 20rem;
+    }
 } 
+
+@media only screen and (max-width: 500px){
+    section{
+        text-align: center;
+    }
+    .main-img{
+        height: 2rem;
+    }
+}

@@ -27,9 +27,9 @@ New features of a project should occur in a new branch in the same repository. F
 Use the checklist below to guide your work today. Your final product should be presentable at mobile, tablet and a desktop-width.
 
 - [X]Insert a viewport meta tag into the head of the project with these html attributes: content="width=device-width, initial-scale=1"
-- [ ]Introduce max-width media queries into your project at 800px and 500px
-- [ ]Add accessability features to your webpage
-- [ ]Design should closely follow the [mobile-wireframe] (https://github.com/LambdaSchool/Responsive-Design/blob/main/Wireframes) given for your chosen layout.. Option 2 wireframe {https://github.com/LambdaSchool/Responsive-Design/blob/main/Wireframes/Option_2.png}
+- [X]Introduce max-width media queries into your project at 800px and 500px
+- [X]Add accessability features to your webpage
+- [X]Design should closely follow the [mobile-wireframe] (https://github.com/LambdaSchool/Responsive-Design/blob/main/Wireframes) given for your chosen layout.. Option 2 wireframe {https://github.com/LambdaSchool/Responsive-Design/blob/main/Wireframes/Option_2.png}
 
 
 ## Task 3: Stretch Goals##
